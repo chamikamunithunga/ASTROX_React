@@ -1,0 +1,38 @@
+.Mission-container {
+
+    background-image: url('../images/artemis-orion-1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Mission-content {
+    text-align: center;
+    position: absolute;
+    top: 40%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  
+  
+  .Mission-caption {
+    font-size: 5rem;
+    font-weight: bold;
+    color: rgb(33, 33, 36);
+  }
+  .Mission-p1{
+    color: rgb(101, 112, 123);
+    font-size:large;
+  }
+  
+  
+  

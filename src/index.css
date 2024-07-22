@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --header-height: 3.5rem;
+  --first-color: hsl(0, 0%, 100%);
+  --title-color: hsl(0, 0%, 100%);
+  --text-color: hsl(0, 0%, 100%);
+  --body-color: hsla(248, 90%, 43%, 0); 
+  --body-font: "Montserrat", sans-serif;
+  --second-font: "Dancing Script", cursive;
+  --h2-font-size: 3.25rem;
+  --small-font-size: 0.813rem;
+  --font-semi-bold: 600;
+  --z-tooltip: 10;
+  --z-fixed: 100;
+  --background-image: url('./images/astro copy.png'); 
+}
+
+body {
+  background-color: var(--body-color); 
+  background-image: var(--background-image); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center center; 
+  color: var(--text-color);
+  font-family: var(--body-font);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
