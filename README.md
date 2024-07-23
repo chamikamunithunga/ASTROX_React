@@ -10,7 +10,8 @@ Stunning Visuals: Dive into a breathtaking collection of space videos and photos
 In-Depth Articles: Explore detailed information about space missions, celestial bodies, and the latest advancements in space technology.
 Future Missions: Stay updated on upcoming space missions and future projects that aim to push the boundaries of human exploration.
 Human Impact: Learn about how space exploration impacts our lives on Earth and the steps humanity is taking to venture further into the cosmos.
-Interactive Content: Engage with interactive elements that provide a hands-on learning experience about space phenomena.
+Interactive Content: Engage with interactive elements that provide a hands-on learning experience about space phenomena.....
+
 
 
 
