@@ -18,8 +18,6 @@ Interactive Content: Engage with interactive elements that provide a hands-on le
 
 
 
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
